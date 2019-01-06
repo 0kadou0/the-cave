@@ -1,0 +1,8 @@
+			LeaveCaveRoom
+		EmptyCavePath	OgreRoom
+		Find5GoldRoom
+		EmptyCavePath
+FindSwordRoom	GoblinRoom	StartingRoom	GiantSpiderRoom
+		FindDaggerRoom
+		EmptyCavePath
+		SnakePitRoom
